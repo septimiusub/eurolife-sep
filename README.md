@@ -1,2 +1,0 @@
-# eurolife-sep
-Eurolife repo
